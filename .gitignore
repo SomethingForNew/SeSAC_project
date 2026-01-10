@@ -30,3 +30,6 @@ Desktop.ini
 .idea/
 *.swp
 *.swo
+
+# env
+/*/.env
