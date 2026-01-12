@@ -95,6 +95,7 @@ PyJWT==2.10.1
 pyparsing==3.3.1
 pyroaring==1.0.3
 python-dateutil==2.9.0.post0
+python-dotenv==1.2.1
 python-json-logger==4.0.0
 pytz==2025.2
 pywinpty==3.0.2

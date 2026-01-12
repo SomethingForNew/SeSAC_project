@@ -25,7 +25,7 @@ __pycache__/
 *.csv
 *.xlsx
 *.db
-data/*.csv
+# data/*.csv
 data/*.xlsx
 
 # OS 파일
