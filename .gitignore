@@ -22,11 +22,11 @@ __pycache__/
 *.ipynb_checkpoints
 
 # 데이터 파일
-*.csv
+# *.csv
 *.xlsx
 *.db
 # data/*.csv
-data/*.xlsx
+# data/*.xlsx
 
 # OS 파일
 Desktop.ini
