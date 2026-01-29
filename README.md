@@ -4,6 +4,13 @@
 
 ---
 
+# 가상환경 준비, 실행 및 라이브러리 설치
+> python -m venv venv
+> eenv\Scripts\activate
+> pip install -r requirements.txt
+
+---
+
 ## 📌 프로젝트 개요
 
 ### 연구 질문
